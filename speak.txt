@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onInit(int i) {
                 t1.setLanguage(Locale.ENGLISH);
-                t1.setSpeechRate(0.4f);
+                t1.setSpeechRate(0.5f);
 
             }
         });
